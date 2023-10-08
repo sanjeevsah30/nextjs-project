@@ -1,0 +1,8 @@
+{
+    "data":"Das Leben ist eine Reise, die wir gehen müssen, egal wie schlecht die Straßen sind. - Oliver Goldsmith",
+    "form":{
+        "name":"Name",
+        "age":"alter",
+        "city":"Stadt"
+    }
+}

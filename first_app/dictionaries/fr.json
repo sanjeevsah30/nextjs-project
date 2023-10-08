@@ -1,0 +1,8 @@
+{
+    "data":"La vie est un voyage qu'il faut parcourir, peu importe la difficulté du chemin. - Oliver Goldsmith",
+    "form":{
+        "name":"nom",
+        "age":"âge",
+        "city":"ville"
+    }
+}
